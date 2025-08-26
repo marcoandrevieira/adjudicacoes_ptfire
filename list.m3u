@@ -1,0 +1,186 @@
+	#EXTM3U
+#EXTINF:-1,DATA - 2025-10-23
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/nbhbh545.m3u8
+#EXTINF:-1 tvg-ID="RTP 1 HD",RTP 1
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtp1.m3u8
+#EXTINF:-1 tvg-ID="RTP 2 HD",RTP 2
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtp2.m3u8
+#EXTINF:-1 tvg-ID="SIC HD",SIC
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sic.m3u8
+#EXTINF:-1 tvg-ID="TVI HD",TVI
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvi.m3u8
+#EXTINF:-1 tvg-ID="SIC Notícias HD",SIC Noticias
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sicnoticias.m3u8
+#EXTINF:-1 tvg-ID="CNN Portugal HD",CNN PORTUGAL
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvi24.m3u8
+#EXTINF:-1 tvg-ID="RTP 3 HD",RTP 3
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtpinformacao.m3u8
+#EXTINF:-1 tvg-ID="CMTV HD",CMTV
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/cmtv.m3u8
+#EXTINF:-1 tvg-ID="CMTV HD",News NOW
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/newsnow.m3u8
+#EXTINF:-1 tvg-ID="A Bola TV HD",ABolaTV
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/abolatv.m3u8
+#EXTINF:-1 tvg-ID="SPORT TV+ HD",SportTV +
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttvmais.m3u8
+#EXTINF:-1 tvg-ID="Canal 11 HD",Canal 11
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/11.m3u8
+#EXTINF:-1 tvg-ID="RTP Memória",RTP Memória
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtpmemoria.m3u8
+#EXTINF:-1 tvg-ID="RTP Madeira",RTP Madeira
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtpmadeira.m3u8
+#EXTINF:-1 tvg-ID="RTP Açores",RTP Acores
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtpacores.m3u8
+#EXTINF:-1 tvg-ID="TVI Reality HD",TVI Reality
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvireality.m3u8
+#EXTINF:-1 tvg-ID="TVI Ficção HD",TVI Ficcao
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvificcao.m3u8
+#EXTINF:-1 tvg-ID="SIC Caras HD",Sic Caras
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/siccaras.m3u8
+#EXTINF:-1 tvg-ID="SIC Mulher HD",Sic Mulher
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sicmulher.m3u8
+#EXTINF:-1 tvg-ID="SIC Radical HD",Sic Radical
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sicradical.m3u8
+#EXTINF:-1 tvg-ID="Canal Q",CanalQ
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/canalq.m3u8
+#EXTINF:-1 tvg-ID="ELEVEN SPORTS 1",DAZN 1
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports1.m3u8
+#EXTINF:-1 tvg-ID="ELEVEN SPORTS 2",DAZN 2
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports2.m3u8
+#EXTINF:-1 tvg-ID="ELEVEN SPORTS 3",DAZN 3
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports3.m3u8
+#EXTINF:-1 tvg-ID="ELEVEN SPORTS 4",DAZN 4
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports4.m3u8
+#EXTINF:-1 tvg-ID="ELEVEN SPORTS 5",DAZN 5
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports5.m3u8
+#EXTINF:-1 tvg-ID="SPORT TV1 HD",SportTV1 [Baixo Delay TESTES]
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv1.m3u8
+#EXTINF:-1 tvg-ID="SPORT TV2 HD",SportTV2 [Baixo Delay TESTES]
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv2.m3u8
+#EXTINF:-1 tvg-ID="SPORT TV4 HD",SportTV4 [Baixo Delay TESTES]
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv4.m3u8
+#EXTINF:-1 tvg-ID="SPORT TV5 HD",SportTV5 [Baixo Delay TESTES]
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv5.m3u8
+#EXTINF:-1 tvg-ID="BTV1 HD",BTV [Baixo Delay TESTES]
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/btv1.m3u8
+#EXTINF:-1 tvg-ID="SPORT TV1 HD",SportTV 1
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1.m3u8
+#EXTINF:-1 tvg-ID="SPORT TV1 HD",SportTV 1 Backup
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1backup.m3u8
+#EXTINF:-1 tvg-ID="SPORT TV2 HD",SportTV 2
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv2.m3u8
+#EXTINF:-1 tvg-ID="SPORT TV3 HD",SportTV 3
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv3.m3u8
+#EXTINF:-1 tvg-ID="SPORT TV4 HD",SportTV 4
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv4.m3u8
+#EXTINF:-1 tvg-ID="SPORT TV5 HD",SportTV 5
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv5.m3u8
+#EXTINF:-1 tvg-ID="Sport TV 6 HD",SportTV 6
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv6.m3u8
+#EXTINF:-1 tvg-ID="Sport TV 7 HD",SportTV 7
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv7.m3u8
+#EXTINF:-1 tvg-ID="BTV1 HD",BTV
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1.m3u8
+#EXTINF:-1 tvg-ID="BTV1 HD",BTV Backup
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1backup.m3u8
+#EXTINF:-1,SportTV1 [ALTERNATIVA 2]
+https://lb2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1.m3u8
+#EXTINF:-1,SportTV1Backup [ALTERNATIVA 2]
+https://lb2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1backup.m3u8
+#EXTINF:-1,SportTV2 [ALTERNATIVA 2]
+https://lb2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv2.m3u8
+#EXTINF:-1,SportTV3 [ALTERNATIVA 2]
+https://lb2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv3.m3u8
+#EXTINF:-1,SportTV4 [ALTERNATIVA 2]
+https://lb2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv4.m3u8
+#EXTINF:-1,SportTV5 [ALTERNATIVA 2]
+https://lb2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv5.m3u8
+#EXTINF:-1,BTV1 [ALTERNATIVA 2]
+https://lb2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1.m3u8
+#EXTINF:-1,BTV1Backup [ALTERNATIVA 2]
+https://lb2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1backup.m3u8
+#EXTINF:-1 tvg-ID="Eurosport 1 HD",Eurosport 1
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/eurosport.m3u8
+#EXTINF:-1 tvg-ID="Eurosport 2 HD",Eurosport 2
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/eurosport2.m3u8
+#EXTINF:-1 tvg-ID="Sport TV NBA",NBATV
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/nbatv.m3u8
+#EXTINF:-1 tvg-ID="Sporting TV HD",Sporting TV
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sportingtv.m3u8
+#EXTINF:-1 tvg-ID="Porto Canal HD",Porto Canal
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/portocanal.m3u8
+#EXTINF:-1 tvg-ID="Discovery HD",Discovery Channel
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/discoverychannel.m3u8
+#EXTINF:-1 tvg-ID="AMC Crime HD",Crime Investigation
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/ci.m3u8
+#EXTINF:-1 tvg-ID="Historia",Historia
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/historia.m3u8
+#EXTINF:-1 tvg-ID="ODISSEIA HD",Odisseia
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/odisseia.m3u8
+#EXTINF:-1 tvg-ID="National Geographic HD",National Geographic
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/nationalgeographic.m3u8
+#EXTINF:-1 tvg-ID="National Geographic WILD HD",Nat Geo Wild
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/natgeowild.m3u8
+#EXTINF:-1 tvg-ID="24Kitchen HD",24 Kitchen
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/24kitchen.m3u8
+#EXTINF:-1 tvg-ID="AMC Break",AMC Break
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/ae.m3u8
+#EXTINF:-1 tvg-ID="TLC",TLC
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tlc.m3u8
+#EXTINF:-1 tvg-ID="E! Entertainment HD",E
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/e.m3u8
+#EXTINF:-1 tvg-ID="MTV Portugal HD",MTV Portugal
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/mtvportugal.m3u8
+#EXTINF:-1 tvg-ID="Trace TV",Trace Urban
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/traceurban.m3u8
+#EXTINF:-1 tvg-ID="Afro Music Channel",AfroMusic Channel
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/afromusicchannel.m3u8
+#EXTINF:-1 tvg-ID="SIC K HD",SICK
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sick.m3u8
+#EXTINF:-1 tvg-ID="Cartoon Network HD",Cartoon Network
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-ID="Disney Channel HD",Disney Channel
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/disneychannel.m3u8
+#EXTINF:-1 tvg-ID="Disney Junior HD",Disney Junior
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/disneyjunior.m3u8
+#EXTINF:-1 tvg-ID="Canal Panda HD",Canal Panda
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/canalpanda.m3u8
+#EXTINF:-1 tvg-ID="Biggs",Panda Biggs
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/pandabiggs.m3u8
+#EXTINF:-1 tvg-ID="FOX Movies HD",Fox Movies
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/foxmovies.m3u8
+#EXTINF:-1 tvg-ID="Canal Hollywood HD",Hollywood
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/hollywood.m3u8
+#EXTINF:-1 tvg-ID="Cinemundo",CineMundo
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/cinemundo.m3u8
+#EXTINF:-1 tvg-ID="AMC HD",AMC
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/amc.m3u8
+#EXTINF:-1 tvg-ID="TVCine TOP HD",TVCine TOP
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvcine1.m3u8
+#EXTINF:-1 tvg-ID="TVCine EDITION HD",TVCine EDITION
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvcine2.m3u8
+#EXTINF:-1 tvg-ID="TVCine EMOTION HD",TVCine EMOTION
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvcine3.m3u8
+#EXTINF:-1 tvg-ID="TVCine ACTION HD",TVCine ACTION
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvcine4.m3u8
+#EXTINF:-1 tvg-ID="Syfy HD",SyFy
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/syfy.m3u8
+#EXTINF:-1 tvg-ID="AXN HD",AXN
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/axn.m3u8
+#EXTINF:-1 tvg-ID="AXN Movies HD",AXN Movies
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/axnblack.m3u8
+#EXTINF:-1 tvg-ID="AXN White HD",AXN White
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/axnwhite.m3u8
+#EXTINF:-1 tvg-ID="FOX HD",Star Channel
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/fox.m3u8
+#EXTINF:-1 tvg-ID="FOX Life HD",Star Life
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/foxlife.m3u8
+#EXTINF:-1 tvg-ID="FOX Comedy HD",Star Comedy
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/foxcomedy.m3u8
+#EXTINF:-1 tvg-ID="FOX Crime HD",Star Crime
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/foxcrime.m3u8
+#EXTINF:-1 tvg-ID="Globo HD",Globo PT
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/globoportugal.m3u8
+#EXTINF:-1 tvg-ID="Record TV HD",TV Record PT
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvrecordportugal.m3u8
+
